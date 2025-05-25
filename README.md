@@ -16,10 +16,10 @@
   ![image](https://github.com/user-attachments/assets/ec847d45-880b-4c03-8064-6626a8a753b2)  
  **2. Для второго пользователя**
 
-       ![image](https://github.com/user-attachments/assets/72cc1322-4c97-48c2-910f-f67bbac90dad)  
+![image](https://github.com/user-attachments/assets/72cc1322-4c97-48c2-910f-f67bbac90dad)  
        
      На скриншоте видно, что программа при запуске для второго пользователя обнаружила и первого. В этот момент у первого пользователя отобразилось следующее:
-     ![image](https://github.com/user-attachments/assets/24fa933f-366e-42ed-81c9-6ec0ad8b0e73)
+![image](https://github.com/user-attachments/assets/24fa933f-366e-42ed-81c9-6ec0ad8b0e73)
      Второй пользователь также обнаружен. Теперь они могут обмениваться сообщениями.
       ![image](https://github.com/user-attachments/assets/04d6a07f-a8d5-4b57-a16e-2ff3a72ff1fb)
      ![image](https://github.com/user-attachments/assets/6025cd54-1f84-46c5-83f0-85bd7eb22192)
